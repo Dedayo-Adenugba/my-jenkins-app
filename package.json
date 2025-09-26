@@ -1,0 +1,23 @@
+{
+  "name": "my-jenkins-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dedayo-Adenugba/my-jenkins-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dedayo-Adenugba/my-jenkins-app/issues"
+  },
+  "homepage": "https://github.com/Dedayo-Adenugba/my-jenkins-app#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
